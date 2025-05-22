@@ -1,10 +1,12 @@
+//Winter 2024 OR Q:3(c)
+
 class Account {
     private int Ac_No;
     private String Name;
     private double Balance;
 
     // Method to set initial data
-    public void setdata(int acNo, String name, double balance) {
+    public void setData(int acNo, String name, double balance) {
         Ac_No = acNo;
         Name = name;
         Balance = balance;
@@ -36,7 +38,7 @@ public class AccountTest {
         Account account = new Account();
 
         // Set initial data using setdata()
-        account.setdata(12345, "Alice Johnson", 1000.0);
+        account.setData(12345, "Alice Johnson", 1000.0);
 
         // Display initial details
         account.display();

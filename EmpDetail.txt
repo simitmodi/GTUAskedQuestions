@@ -1,0 +1,3 @@
+101,John Doe,Manager,50000
+102,Jane Smith,Developer,80000
+103,Bob Johnson,Designer,60000

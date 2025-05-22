@@ -1,3 +1,5 @@
+//Winter 2023 Q:4(a)
+
 import java.util.Scanner;
 
 public class PalindromeNumber {

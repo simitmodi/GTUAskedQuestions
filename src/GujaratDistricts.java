@@ -1,3 +1,5 @@
+// Winter 2023 Q:3(b)
+
 import java.util.Scanner;
 
 public class GujaratDistricts {

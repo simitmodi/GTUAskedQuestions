@@ -1,3 +1,5 @@
+// Winter 2023 Q:1(c)
+
 public class ArrayOperations {
     public static void main(String[] args) {
         // Declare and initialize an array of 10 integers
